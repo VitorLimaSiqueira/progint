@@ -51,6 +51,23 @@ nav{
     background-color: #A7B49E;
 }
 
+.servicos{
+    background-color: azure;
+    text-align: left;
+}
+
 .curiosidades{
+    text-align: left;
+    background-color: rgb(228, 174, 75);
+}
+
+.sobre{
+    list-style-type: none;
+    text-align: left;
+    background-color: azure;
     
+}
+
+.sobre img{
+    height: 100px;
 }
