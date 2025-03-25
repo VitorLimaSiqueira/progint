@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: fantasy;
     background-color: azure;
 }
 
@@ -53,12 +53,15 @@ nav{
 
 .servicos{
     background-color: azure;
-    text-align: left;
+    text-align: center;
+
+    list-style-type: none;
 }
 
 .curiosidades{
-    text-align: left;
-    background-color: rgb(228, 174, 75);
+    text-align: center;
+    list-style: none;
+    background-color: azure;
 }
 
 .sobre{
@@ -70,4 +73,25 @@ nav{
 
 .sobre img{
     height: 100px;
+}
+
+.produtos{
+    list-style-type: disc;
+    text-align: left;
+    background-color: azure;
+}
+
+.infoM1 {
+    margin: 25px;
+    background-color: azure;
+}
+
+.infoM2 {
+    margin: 25px;
+    background-color: azure;
+}
+
+.infoM3 {
+    margin: 25px;
+    background-color: azure;
 }
